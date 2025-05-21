@@ -14,27 +14,27 @@ Welcome to my GitHub! I’m a passionate and experienced full-stack engineer, bl
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" /> Tech Stack
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> Frontend  
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" /> Frontend  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte" />
 </p>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> Backend  
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> Backend  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=express,nestjs,django,flask,fastapi,spring,dotnet,rails,laravel" />
 </p>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> Databases  
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16"/> Databases  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,redis,elasticsearch" />
 </p>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" /> Cloud & DevOps
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16" /> Cloud & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,heroku,docker,terraform,kubernetes" />
 </p>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> AI & Machine Learning  
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> AI & Machine Learning  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   <img src="https://img.shields.io/badge/Keras-Deep%20Learning-red?style=for-the-badge&logo=keras&logoColor=white" />
@@ -44,16 +44,16 @@ Welcome to my GitHub! I’m a passionate and experienced full-stack engineer, bl
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="20"/> Core Values & Strengths
+## 🪄 Core Values & Strengths
 
-- ✅ Clean, maintainable code & scalable architecture  
-- ✅ Deep problem-solving and data structure knowledge  
-- ✅ Effective team collaboration & communication  
-- ✅ Timezone flexibility and client-first mindset
+✅ Clean, maintainable code & scalable architecture  
+✅ Deep problem-solving and data structure knowledge  
+✅ Effective team collaboration & communication  
+✅ Timezone flexibility and client-first mindset
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> Let's Connect
+## 🤝 Let's Connect
 
 Whether you're building an MVP or scaling an enterprise product — let's make it happen.
 
